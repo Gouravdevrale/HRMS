@@ -25,7 +25,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://your-app.vercel.app",
+      "https://hrms-frontends-09x5.onrender.com",
     ],
     credentials: true,
   })
